@@ -1,0 +1,19 @@
+<p>categories works!</p>
+<h1>Select Category</h1>
+<select (change)="onSelectedCategory($event)">
+<option *ngFor="let category of categories" [value]="category.name" >{{category.name}}</option>
+
+</select>
+
+<div *ngIf="selectedCategory" id="data">
+  <img [src]="selectedCategory.image"/>
+    <h2>{{ selectedCategory.name }}</h2>
+    <p>{{ selectedCategory.description }}</p>
+    <ul>
+      <li *ngFor="let book of selectedCategory.books">
+        {{ book.title }} by {{ book.author }}
+      </li>
+    </ul>
+    <button (click)="viewMore()">View More..</button>
+
+  </div>

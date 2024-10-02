@@ -1,0 +1,15 @@
+#data{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    color:brown;
+    width: 600px;
+    height: 200px;
+    align-items: center;
+}
+#explore{
+    background-color: wheat;
+    border-radius: 12px;
+    color: brown;
+    height: 40px;
+    width: 120px;
+}

@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/fiction.png",
+      "name": "Fiction",
+      "description": "Dive into the enchanting realm of fiction, where imagination knows no bounds. Fictional worlds unfold like tapestries of dreams, weaving intricate tales that transport readers beyond reality. Characters, vivid and diverse, embark on journeys of self-discovery, love, and adventure. Within the pages, emotions resonate, and landscapes morph with every word. From gripping mysteries to heartwarming romances, fiction captures the essence of the human experience, inviting readers to escape into alternate realities. It is a literary adventure that sparks empathy, fuels creativity, and provides an escape hatch to myriad universes. Immerse yourself in the magic, where stories breathe and dreams take flight.",
+      "books": [
+        {
+          "name": "The Alchemist",
+          "desc": "The Alchemist by Paulo Coelho: A transformative journey of Santiago, a shepherd, pursuing dreams, love, and destiny, guided by spiritual alchemy."
+        },
+        {
+          "name": "The Great Gatsby",
+          "desc": "The Great Gatsby: Fitzgerald's Jazz Age masterpiece, unravels love, wealth, and disillusionment in 1920s America—a timeless classic of elegance and tragedy."
+        },
+        {
+          "name": "A Man Called Ove",
+          "desc": "A Man Called Ove: A heartwarming tale of an irritable but endearing curmudgeon finding unexpected connections, love, and redemption."
+        },
+        {
+          "name": "The Kite Runner",
+          "desc": "The Kite Runner, by Khaled Hosseini, intricately weaves a tale of redemption, friendship, and betrayal set against Afghanistan's tumultuous backdrop."
+        },
+        {
+          "name": "Pride and Prejudice",
+          "desc": "Pride and Prejudice: Jane Austen's timeless romance unfolds amid societal expectations, love, and Elizabeth Bennet's journey toward self-discovery."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "assets/images/novel.png",
+      "name": "Novel",
+      "description": "A novel is a boundless odyssey into the realms of imagination, weaving intricate tapestries of characters, emotions, and plots. In the tapestry of storytelling, novels serve as portals to alternate worlds, inviting readers to traverse the landscapes of diverse genres and eras. With each turn of the page, narratives unfold like magic, unveiling universal truths, profound insights, and the complexities of the human experience. Novels are vessels of escapism, enlightenment, and empathy, offering readers a sanctuary to lose themselves and find the profound within the ordinary. These literary companions transcend time, leaving indelible imprints on the soul long after the final chapter concludes.",
+      "books": [
+        {
+          "name": "The Silent Patient",
+          "desc": "The Silent Patient: Gripping psychological thriller. Alicia Berenson's chilling silence unravels a mind-bending mystery. Shocking twists redefine sanity's boundaries."
+        },
+        {
+          "name": "A Passage to India",
+          "desc": "A Passage to India by E.M. Forster explores cultural clash and friendship in British-ruled India, unveiling deep complexities with precision."
+        },
+        {
+          "name": "Three Men in a Boat",
+          "desc": "Jerome K. Jerome's 'Three Men in a Boat': Hilarious Victorian escapade on the Thames, blending humor, camaraderie, and timeless misadventures."
+        },
+        {
+          "name": "The Grapes of Wrath",
+          "desc": "The Grapes of Wrath by John Steinbeck depicts the Joad family's journey during the Great Depression, exploring resilience amid hardship."
+        },
+        {
+          "name": "East of Eden",
+          "desc": "John Steinbeck's 'East of Eden': Epic family saga explores good and evil, intergenerational conflicts in California's Salinas Valley. Timeless masterpiece."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "assets/images/mystery.png",
+      "name": "Mystery",
+      "description": "Mystery, the elusive allure of the unknown, captivates the human spirit with a tantalizing blend of suspense and intrigue. It beckons, shrouded in enigma, inviting curious minds to unravel secrets and navigate uncharted realms. In the realm of literature, mystery transcends genres, weaving tales of suspense, crime, and the supernatural. It is the pulse-quickening quest for answers, a narrative dance between shadows and revelations. Characters become detectives, and readers, their companions, embark on thrilling odysseys, deciphering clues and navigating labyrinthine plots. With each turn of the page, mystery unveils its riddles, leaving an indelible mark on the imagination, a testament to the timeless allure of the unknown.",
+      "books": [
+        {
+          "name": "The Woman in White",
+          "desc": "The Woman in White is a Victorian Gothic mystery by Wilkie Collins, unraveling secrets, deception, and forbidden love in England"
+        },
+        {
+          "name": "Crime and Punishment",
+          "desc": "Crime and Punishment explores the tormented mind of Raskolnikov as he grapples with morality, guilt, and redemption in St. Petersburg."
+        },
+        {
+          "name": "The Leavenworth Case",
+          "desc": "The Leavenworth Case by Anna Katharine Green is a classic detective novel, unveiling a murder mystery with cunning twists and revelations."
+        },
+        {
+          "name": "The Turn of the Screw",
+          "desc": "The Turn of the Screw is a haunting psychological thriller with a mysterious governess, eerie apparitions, and unsettling ambiguity."
+        },
+        {
+          "name": "The Three Coffins",
+          "desc": "The Three Coffins by John Dickson Carr: A classic locked-room mystery with ingenious puzzles, suspenseful twists, and a brilliant detective."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "assets/images/narrative.png",
+      "name": "Narrative",
+      "description": "Narrative, the artful thread weaving tales and illuminating the human experience, transcends time to encapsulate the essence of storytelling. In a mere 100 words, it dances through words, conjuring worlds and characters that resonate with the soul. With a unique cadence, it guides the audience through emotions and events, etching indelible imprints on hearts and minds. Narrative, a whispered secret in every authors pen stroke, filmmakers frame, or bards melody, speaks the universal language of connection. It is the timeless vessel carrying dreams, wisdom, and the profound echoes of our shared existence, captivating minds in its lyrical embrace.",
+      "books": [
+        {
+          "name": "In Cold Blood",
+          "desc": "In Cold Blood by Truman Capote: Gripping true crime narrative, meticulously reconstructs a brutal murder, blurring lines between fact and fiction."
+        },
+        {
+          "name": "Into Thin Air",
+          "desc": "Into Thin Air recounts Jon Krakauer's harrowing Everest expedition, revealing the tragic consequences of the 1996 Mount Everest disaster."
+        },
+        {
+          "name": "Hidden Valley Road",
+          "desc": "Hidden Valley Road unravels the poignant journey of a family plagued by mental illness, illuminating resilience amid profound challenges."
+        },
+        {
+          "name": "Hidden Figures",
+          "desc": "Hidden Figures illuminates the brilliance of African-American women mathematicians crucial to NASA's success during the space race, inspiring history."
+        },
+        {
+          "name": "The Glass Castle",
+          "desc": "The Glass Castle unravels Jeannette Walls' tumultuous upbringing, blending resilience and dysfunction in a poignant memoir of family and survival."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "assets/images/thriller.png",
+      "name": "Thriller",
+      "description": "Thrillers are the heartbeat of suspense, plunging readers into a gripping world of intrigue and adrenaline. In this genre, every page crackles with tension, and each paragraph teases the unknown. Characterized by relentless pacing and unexpected twists, thrillers lure readers into a labyrinth of mystery and danger. From psychological thrillers that delve into the human psyche to action-packed espionage tales, the genre captivates with its unpredictable narratives and shadowy atmospheres. With protagonists facing peril at every turn and antagonists shrouded in enigma, thrillers are an exhilarating rollercoaster ride, leaving hearts pounding and minds eagerly anticipating the next heart-stopping revelation.",
+      "books": [
+        {
+          "name": "Gone Girl",
+          "desc": "Gone Girl: A riveting psychological thriller. Marriage secrets unravel as Nick searches for his missing wife, with unforeseen twists."
+        },
+        {
+          "name": "Dark Places",
+          "desc": "Dark Places is Gillian Flynn's gripping thriller, unraveling family secrets after the brutal murder of a Kansas farmhouse. Gripping suspense!"
+        },
+        {
+          "name": "Killing Floor",
+          "desc": "Lee Child's 'Killing Floor' follows ex-military drifter Jack Reacher in a relentless, high-stakes investigation, blending action, mystery, and suspense."
+        },
+        {
+          "name": "The Guest List",
+          "desc": "The Guest List is a suspenseful thriller by Lucy Foley, unraveling a wedding's dark secrets on a secluded island."
+        },
+        {
+          "name": "The Shining",
+          "desc": "The Shining, a Stephen King masterpiece, unravels a chilling tale of isolation, supernatural horrors, and a haunted hotel's sinister secrets."
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,14 @@
+<p>description works!</p>
+<p>description works!</p>
+<div *ngIf="selectedCategory">
+    <h1>{{ selectedCategory.name }}</h1>
+    <span>{{ selectedCategory.description }}</span>
+    <div class="book-grid">
+      <div *ngFor="let book of selectedCategory.books" class="book-card">
+        <img [src]="selectedCategory.image" class="book-image" />
+        <h3>{{ book.name }}</h3>
+        <p>{{ book.desc }}</p>
+      </div>
+    </div>
+  </div>
+
